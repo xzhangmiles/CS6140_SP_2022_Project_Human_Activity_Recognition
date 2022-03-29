@@ -1,0 +1,2 @@
+# CS6140_SP_2022_Project_Human_Activity_Recognition
+CS6140_SP_2022_Project_Human_Activity_Recognition
