@@ -19,3 +19,6 @@ pip install tensorflow
 <div>
 pip install keras
 </div>
+<div>
+pip install prettytable
+</div>
